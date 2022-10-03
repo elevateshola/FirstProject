@@ -1,0 +1,68 @@
+{
+    "items":[
+        {
+            "sys":{"id":"1"},
+            "fields":{
+                "title": "Data Structures and Algorithms Full Course",
+                "price": 107.99,
+                "image": {"fields":{"file":{"url":"images/planguages.png"}}}
+            }
+        },
+        {
+            "sys":{"id":"2"},
+            "fields":{
+                "title": "Data Science Full Course",
+                "price": 113.99,
+                "image": {"fields":{"file":{"url":"images/webdesign.png"}}}
+            }
+        },
+        {
+            "sys":{"id":"3"},
+            "fields":{
+                "title": "Python Programming Materialcourse",
+                "price": 123.99,
+                "image": {"fields":{"file":{"url":"images/python.png"}}}
+            }
+        },
+        {
+            "sys":{"id":"4"},
+            "fields":{
+                "title": "C++ Mastercourse",
+                "price": 120.99,
+                "image": {"fields":{"file":{"url":"images/c++.png"}}}
+            }
+        },
+        {
+            "sys":{"id":"5"},
+            "fields":{
+                "title": "Web Development for Beginners",
+                "price": 99.99,
+                "image": {"fields":{"file":{"url":"images/html.png"}}}
+            }
+        },
+        {
+            "sys":{"id":"6"},
+            "fields":{
+                "title": "Java Programming Mastercourse",
+                "price": 123.99,
+                "image": {"fields":{"file":{"url":"images/Java.png"}}}
+            }
+        },
+        {
+            "sys":{"id":"7"},
+            "fields":{
+                "title": "Digital Marketing full Cource",
+                "price": 109.99,
+                "image": {"fields":{"file":{"url":"images/fullstack.png"}}}
+            }
+        },
+        {
+            "sys":{"id":"8"},
+            "fields":{
+                "title": "Advance Web Development",
+                "price": 129.99,
+                "image": {"fields":{"file":{"url":"images/angular.png"}}}
+            }
+        }
+    ]
+}
